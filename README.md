@@ -111,7 +111,7 @@ The tutorial is divided into three parts:
 
 ### Tutorial
 
-Follow the step by step in **tutorial.ipynb**
+Follow the step by step in **tutorial.ipynb** (not yet provided)
 
 
 </br>
