@@ -90,7 +90,7 @@ The tutorial is divided into three parts:
     |   ├── KM_survival_analysis.py : plot the survival curve and calculate the p-value
     |   └── selected_features.py    : feature selected in the study
     |   
-    ├── tutorial.ipynb: tutorial
+    ├── tutorial.ipynb: tutorial (not yet provided)
     |
     (The tutorial will produce the following files)
     |
