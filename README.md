@@ -19,7 +19,7 @@
 
 ### Aim
 
-A tutorial for establishing an ensemble model to stratify patients with acute myeloid leukemia (AML) into three risk groups based on non-clinician-initiated data. 
+A tutorial for establishing an ensemble model to stratify patients with acute myeloid leukemia (AML) into three risk groups based on tabular non-clinician-initiated data. 
 
 The performance of the model is compared to the [European LeukemiaNet (ELN) risk stratification system](https://ashpublications.org/blood/article/129/4/424/36196/Diagnosis-and-management-of-AML-in-adults-2017-ELN).
 
